@@ -1,0 +1,46 @@
+.hero{
+    width:auto;
+    background-image:url(../img/header.jpg);
+}
+.hero-unit h1{
+    margin-top:0;
+    padding-top:0;
+    color:#000000;
+    text-shadow:1px 1px 2px #ffffff;
+}
+.hero-unit p{
+    text-align:justify;
+    color:#000000;
+    text-shadow:1px 1px 2px #ffffff;
+}
+.text-justify{
+    text-align: justify;
+}
+
+#conteudo{
+    margin-top: 50px;
+    margin-bottom: 0;
+}
+
+div#admin{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.container-fluid#login{
+    width: 300px;
+    margin: 0 auto;
+}
+.container-fluid#login label{
+    font-weight: bold;
+}
+
+#usuario h3{
+    display: inline;
+    float: left;
+}
+
+#logout a{
+    float: right;
+}
+
